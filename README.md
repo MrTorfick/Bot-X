@@ -25,7 +25,7 @@ pip install tweepy
 ```bash
 python script.py
 ```
-📝 Example Post
-```bash
-There are 567 days left until the release of GTA 6.
-```
+📝 Example Post:
+
+![image](https://github.com/user-attachments/assets/db22ce91-db09-4924-8557-61cd08f4db8f)
+
