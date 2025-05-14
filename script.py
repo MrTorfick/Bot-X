@@ -20,7 +20,7 @@ def post_daily_tweet():
         days_left = (release_date - today).days
 
 
-        tweet = f"There are {days_left} days left until the release of GTA 6."
+        tweet = f"There are {days_left} days left until the release of GTA 6. #GTA6 #GTAVI"
         
 
         client = tweepy.Client(
